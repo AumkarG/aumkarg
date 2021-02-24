@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+﻿
+### Hello 👋
+
+I'm ***Aumkar Gadekar.***
+
+[![Gmail Badge](https://img.shields.io/badge/-shlokashah0603@gmail.com-c14436?style=oval&logo=Gmail&logoColor=black&link=mailto:shlokashah0603@gmail.com)](mailto:aumkaar.g@gmail.com)  [![Linkedin Badge](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+ 
+ - Final Year Computer Science Student from Sardar Patel Institute of Technology.
+
+ 
+ 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=aumkarg)
+
+
+
+
+
