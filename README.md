@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ﻿
 
-I'm ***Aumkar Gadekar.***
+I'm **Aumkar Gadekar.**
 
 I'm a final student of Sardar Patel Institute of Technology. I enjoy problem solving, competitive coding, and building solutions.
 
