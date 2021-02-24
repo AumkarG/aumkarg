@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 I'm **Aumkar Gadekar.**
 
 I'm a final student of Sardar Patel Institute of Technology. I enjoy problem solving, competitive coding, and building solutions. Check out my coding profiles here ! :
-https://www.hackerrank.com/aumkaar_g
-<img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" width="48">
+
+<img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" width="60">
+<img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" width="60">
 
 
 
