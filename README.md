@@ -21,7 +21,7 @@ I'm **Aumkar Gadekar.**
 
 I'm a final student of Sardar Patel Institute of Technology. I enjoy problem solving, competitive coding, and building solutions. Check out my coding profiles here ! :
 https://www.hackerrank.com/aumkaar_g
-[Linkedin Badge](https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg-aumkargadekar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aumkar-gadekar-98625015a/)](https://www.linkedin.com/in/aumkar-gadekar/)
+[![Linkedin Badge](https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg-aumkargadekar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aumkar-gadekar-98625015a/)](https://www.linkedin.com/in/aumkar-gadekar/)]
 
 You can reach out to me here :
 
