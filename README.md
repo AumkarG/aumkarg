@@ -27,6 +27,7 @@ You can reach out to me here :
 
 [![Gmail Badge](https://img.shields.io/badge/-aumkaar.g@gmail.com-c14436?style=oval&logo=Gmail&logoColor=black&link=mailto:aumkaar.g@gmail.com)](mailto:aumkaar.g@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-aumkargadekar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aumkar-gadekar-98625015a/)](https://www.linkedin.com/in/aumkar-gadekar/)
 
-Primary Research Interests : Algorithms and Complexity, Computational Intelligence, Soft-Computing, Natural Language Processing & Business Intelligence.
- 
+Primary Research Interests : Algorithms and Complexity, Computational Intelligence, Soft-Computing, Natural Language Processing & Business Intelligence. 
+
+ResearchGate Profile : https://www.researchgate.net/profile/Aumkar-Gadekar
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aumkarg)
