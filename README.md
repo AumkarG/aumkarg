@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 I'm **Aumkar Gadekar.**
 
-I'm a final student of Sardar Patel Institute of Technology. I enjoy problem solving, competitive coding, and building solutions. Check out my coding profiles here ! :
+I'm a Computer Science and Engineering Graduate from Sardar Patel Institute of Technology, working as a Technology Analyst at Deutsche Bank. I enjoy problem solving, competitive coding, and building solutions. Check out my coding profiles here ! :
 
 [<img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" width="60">](https://www.hackerrank.com/aumkaar_g)
 [<img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" width="60">](https://www.codechef.com/users/aumkar_99)
