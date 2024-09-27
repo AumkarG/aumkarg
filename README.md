@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 I'm **Aumkar Gadekar.**
 
-I'm pursuing my Master's in Computer Science from Georgia Institute of Technology, specializing in Interactive Intelligence. Prior to this, I was as a big data engineer at Deutsche Bank for three years.
+I'm pursuing my Master's in Computer Science from Georgia Institute of Technology, specializing in Interactive Intelligence. Prior to this, I was as a big data engineer at Deutsche Bank for three years. I boast a versatile tech-stack with strong competencies in backend and data-engineering. I'm proficient in Scala, Python, Java, C & C++. I have worked on the build and deployment of large scale big data pipelines using Apache Spark, scala, SQL, Airflow, docker & Kubernetes. Additionally, I have exposure to an extensive ML and AI toolkit with domain experience in deep learning, computer vision & NLP.
 
 I'm a Computer Science and Engineering Graduate from Sardar Patel Institute of Technology. I enjoy problem solving, competitive coding, and building software solutions to complex problems. Check out my coding profiles here ! :
 
