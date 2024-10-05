@@ -31,5 +31,3 @@ You can reach out to me here :
 Primary Research Interests : Algorithms and Complexity, Computational Intelligence, Soft-Computing, Natural Language Processing & Business Intelligence. 
 
 ResearchGate Profile : https://www.researchgate.net/profile/Aumkar-Gadekar
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=aumkarg)
